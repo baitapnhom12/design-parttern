@@ -1,0 +1,1 @@
+<!--them chuc nang vao lop khac ma khong thay doi cau truc cua lop do -->
